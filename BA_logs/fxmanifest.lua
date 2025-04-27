@@ -1,7 +1,7 @@
 author 'BadAss'
 description 'FXServer logs to Discord '
 version '1.1.3'
-url 'https://jokedevil.com'
+url 'soon'
 
 -- Config
 server_script 'config.lua'
